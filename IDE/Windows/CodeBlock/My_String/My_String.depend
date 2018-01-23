@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1516667153 source:d:\prove multi ide\my_string\sorgenti\countocc.c
+	"My_String.h"
+
+1516693165 d:\prove multi ide\my_string\sorgenti\my_string.h
+	<stdlib.h>
+	<string.h>
+	"My_Errno.h"
+
+1516574556 d:\prove multi ide\my_string\sorgenti\my_errno.h
+	<errno.h>
+
+1514652136 source:d:\prove multi ide\my_string\sorgenti\hidestr.c
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1516667153 source:d:\prove multi ide\my_string\sorgenti\lastspace.c
+	"My_String.h"
+
+1516667153 source:d:\prove multi ide\my_string\sorgenti\multispace.c
+	"My_String.h"
+
+1516667153 source:d:\prove multi ide\my_string\sorgenti\setstr.c
+	"My_String.h"
+	<ctype.h>
+
+1514502850 source:d:\prove multi ide\my_string\sorgenti\strdupl.c
+
+1516667153 source:d:\prove multi ide\my_string\sorgenti\titler.c
+	"My_String.h"
+	<ctype.h>
+
+1516667153 source:d:\prove multi ide\my_string\sorgenti\toupper-lower.c
+	"My_String.h"
+	<ctype.h>
+
+1516667153 source:d:\prove multi ide\my_string\sorgenti\verse.c
+	"My_String.h"
+
+1516693366 source:d:\prove multi ide\my_string\ide\windows\codeblock\my_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../../../../Sorgenti/My_String.h"
+
+1516693244 source:d:\prove multi ide\my_string\sorgenti\aling.c
+	"My_String.h"
+

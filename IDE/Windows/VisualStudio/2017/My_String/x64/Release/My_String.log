@@ -1,0 +1,63 @@
+﻿  Aling.c
+  countOcc.c
+  hideStr.c
+  lastSpace.c
+  multiSpace.c
+  setStr.c
+  strdupl.c
+..\..\..\..\..\Sorgenti\strdupl.c(1): warning C4206: utilizzata estensione non standard: unità di conversione vuota
+  titler.c
+  ToUpper-Lower.c
+  verse.c
+  main.c
+main.c(5): warning C4464: il percorso di inclusione relativo contiene '..'
+main.c(7): warning C4100: 'argv': parametro formale senza riferimenti
+main.c(7): warning C4100: 'arcg': parametro formale senza riferimenti
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(946): warning C4710: 'int printf(const char *const ,...)': funzione non resa inline
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(946): note: vedere la dichiarazione di 'printf'
+  Generazione codice in corso...
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(641): warning C4710: '__local_stdio_printf_options': funzione non resa inline
+d:\prove multi ide\my_string\sorgenti\aling.c(11): warning C4711: funzione 'nSetStr' selezionata per l'espansione inline automatica
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(641): warning C4710: '__local_stdio_printf_options': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(13): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(15): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(16): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(17): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(18): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(19): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(20): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(21): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(22): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(23): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(24): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(25): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(26): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(27): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(28): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(29): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(30): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(31): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(32): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(33): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(34): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(35): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(36): warning C4710: 'printf': funzione non resa inline
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(14): warning C4711: funzione 'nSetStr' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\sorgenti\aling.c(11): warning C4711: funzione 'nSetStr' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(17): warning C4711: funzione 'alignStr' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\sorgenti\aling.c(11): warning C4711: funzione 'nSetStr' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(18): warning C4711: funzione 'alignStr' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\sorgenti\aling.c(11): warning C4711: funzione 'nSetStr' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(19): warning C4711: funzione 'alignStr' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(22): warning C4711: funzione 'maskStr' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(25): warning C4711: funzione 'clrLS' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(26): warning C4711: funzione 'clrFS' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(27): warning C4711: funzione 'clrMultiSpace' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(30): warning C4711: funzione 'upperStr' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(31): warning C4711: funzione 'lowerStr' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(32): warning C4711: funzione 'titleStr' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(35): warning C4711: funzione 'strrevv' selezionata per l'espansione inline automatica
+d:\prove multi ide\my_string\ide\windows\visualstudio\2017\my_string\main.c(36): warning C4711: funzione 'CountOcc' selezionata per l'espansione inline automatica
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  My_String.vcxproj -> D:\PROVE MULTI IDE\My_String\IDE\Windows\VisualStudio\2017\My_String\x64\Release\My_String.exe
