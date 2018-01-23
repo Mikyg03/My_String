@@ -1,5 +1,5 @@
 /************************************************************************************************************
- * This file is part of Nome-Programma.
+ * ThdimStrings file is part of Nome-Programma.
  *
  * Nome-Programma is free software: you can redistribute it and/or moify
  * it under the terms of the GNU General Public License as published by
@@ -18,12 +18,15 @@
 
 char* strrevv( const char *string )
 {
-    size_t i = strlen( string );
-    size_t j = 0;
-    char* tmp = malloc( ( i + 1 ) * sizeof( char ) );
+    if(string==NULL || string[0]=='\0')
+        return NULL;
 
-    for( ; *( string + j ); i--, j++ )
-        *(tmp+j) = *(string+(i-1));
+    size_t dimString = strlen( string );
+    size_t j = 0;
+    char* tmp = malloc( ( dimString + 1 ) * sizeof( char ) );
+
+    for( ; *( string + j ); dimString--, j++ )
+        *(tmp+j) = *(string+(dimString-1));
     *(tmp+j) = '\0';
     return tmp;
 }
