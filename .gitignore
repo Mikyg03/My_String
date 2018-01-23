@@ -30,3 +30,11 @@
 
 # Debug files
 *.dSYM/
+*.db
+*.ipch
+*.log
+*.tlog
+*.pdb
+*.ilk
+*.opendb
+*.idb
